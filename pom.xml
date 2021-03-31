@@ -42,7 +42,7 @@
         <httpclient.version>4.5.5</httpclient.version>
         <joor.version>0.9.12</joor.version>
         <fastjson.version>1.2.62</fastjson.version>
-        <guava.version>27.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <jetbrains.version>17.0.0</jetbrains.version>
     </properties>
 
